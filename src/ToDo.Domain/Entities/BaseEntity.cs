@@ -2,9 +2,9 @@ using FluentValidation.Results;
 
 namespace ToDo.Domain.Entities
 {
-    public class BaseEntity
+    public class BaseEntity<T>
     {
-        public long Id { get; set; }
+        public T Id { get; set; }
 
         public virtual bool Validate(out ValidationResult validationResult)
         {

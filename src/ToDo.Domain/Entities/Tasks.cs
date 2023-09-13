@@ -1,6 +1,6 @@
 namespace ToDo.Domain.Entities
 {
-    public class Tasks : BaseEntity
+    public class Tasks : EntityBase
     {
         public long UserId { get; set; }
         public string Name { get; set; } = null!;

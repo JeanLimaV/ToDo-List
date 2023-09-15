@@ -1,5 +1,5 @@
 using FluentValidation;
-using ToDo.Domain.Entities;
+using ToDo-List.Domain.Entities;
 
 namespace ToDo.Domain.Entities
 {
@@ -16,7 +16,7 @@ namespace ToDo.Domain.Entities
             RuleFor(user => user.Email)
                 .NotEmpty()
                 .WithMessage("The Email cannot be Empty.")
-                .Length(8, 80)
+                .Length(10, 80)
                 .WithMessage("The Email cannot contain less than 10 or more than 80 characters.");
 
             RuleFor(user => user.Password)

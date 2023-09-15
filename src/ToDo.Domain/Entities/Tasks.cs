@@ -10,6 +10,7 @@ namespace ToDo.Domain.Entities
         public DateTime Created { get; set; }
         public DateTime Updated { get; set; }
         public virtual Users User { get; set; } = null!;
-        
     }
+
+    
 }

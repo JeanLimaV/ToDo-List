@@ -1,11 +1,10 @@
 using FluentValidation.Results;
-using ToDo.Domain.Validators;
 
 namespace ToDo.Domain.Entities
 {
-    public class EntityBase
+    public class EntityBase<T>
     {
-        public long Id { get; set; }
+        public T Id { get; set; }
 
         public virtual bool Validate(out ValidationResult validationResult)
         {

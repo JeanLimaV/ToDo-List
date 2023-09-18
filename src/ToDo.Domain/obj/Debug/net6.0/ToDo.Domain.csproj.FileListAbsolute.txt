@@ -1,0 +1,12 @@
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/bin/Debug/net6.0/ToDo.Domain.deps.json
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/bin/Debug/net6.0/ToDo.Domain.dll
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/bin/Debug/net6.0/ref/ToDo.Domain.dll
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/bin/Debug/net6.0/ToDo.Domain.pdb
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/obj/Debug/net6.0/ToDo.Domain.csproj.AssemblyReference.cache
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/obj/Debug/net6.0/ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/obj/Debug/net6.0/ToDo.Domain.AssemblyInfoInputs.cache
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/obj/Debug/net6.0/ToDo.Domain.AssemblyInfo.cs
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/obj/Debug/net6.0/ToDo.Domain.csproj.CoreCompileInputs.cache
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/obj/Debug/net6.0/ToDo.Domain.dll
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/obj/Debug/net6.0/ref/ToDo.Domain.dll
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Domain/obj/Debug/net6.0/ToDo.Domain.pdb

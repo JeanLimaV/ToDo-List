@@ -9,8 +9,7 @@ namespace ToDo.Domain.Entities
 
         public virtual bool Validate(out ValidationResult validationResult)
         {
-            var validator = new TaskValidator();
-            validationResult = validator.Validate(this);
+            validationResult = new ValidationResult();
             return validationResult.IsValid;
         }
     }

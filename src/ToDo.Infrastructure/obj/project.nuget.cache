@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "cfYCAp10DVawyU/J7NTY+HzggYeDcCn63xcmi5ZBDbkDs5v6AEL3sljr3pI12IeDZfQ1OqiqeZYdhkOL6Gkvgw==",
+  "dgSpecHash": "9OOvDj3HugBuqF+gRhJzeKKu4k14g37vkpZxMvfB7FlNoRRVN7MU7ch+SKh6HR7NAS9OWERRZ8ObmKKV7AH4sQ==",
   "success": true,
-  "projectFilePath": "/home/void_/CsharpProjects/TasksNDS/ToDo/src/ToDo.Infrastructure/ToDo.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Infrastructure/ToDo.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/home/void_/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
+    "/home/void_/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
+    "/home/void_/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.11/microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
+    "/home/void_/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.11/microsoft.entityframeworkcore.analyzers.7.0.11.nupkg.sha512",
+    "/home/void_/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/home/void_/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/home/void_/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/void_/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/void_/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/home/void_/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/home/void_/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/home/void_/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/home/void_/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

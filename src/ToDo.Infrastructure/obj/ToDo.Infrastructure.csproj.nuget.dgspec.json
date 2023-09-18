@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/void_/CsharpProjects/TasksNDS/ToDo/src/ToDo.Infrastructure/ToDo.Infrastructure.csproj": {}
+    "/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Infrastructure/ToDo.Infrastructure.csproj": {}
   },
   "projects": {
-    "/home/void_/CsharpProjects/TasksNDS/ToDo/src/ToDo.Infrastructure/ToDo.Infrastructure.csproj": {
+    "/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Infrastructure/ToDo.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/void_/CsharpProjects/TasksNDS/ToDo/src/ToDo.Infrastructure/ToDo.Infrastructure.csproj",
+        "projectUniqueName": "/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Infrastructure/ToDo.Infrastructure.csproj",
         "projectName": "ToDo.Infrastructure",
-        "projectPath": "/home/void_/CsharpProjects/TasksNDS/ToDo/src/ToDo.Infrastructure/ToDo.Infrastructure.csproj",
+        "projectPath": "/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Infrastructure/ToDo.Infrastructure.csproj",
         "packagesPath": "/home/void_/.nuget/packages/",
-        "outputPath": "/home/void_/CsharpProjects/TasksNDS/ToDo/src/ToDo.Infrastructure/obj/",
+        "outputPath": "/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/void_/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

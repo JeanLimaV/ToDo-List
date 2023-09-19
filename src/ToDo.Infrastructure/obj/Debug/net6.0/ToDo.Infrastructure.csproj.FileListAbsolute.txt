@@ -1,0 +1,5 @@
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Infrastructure/obj/Debug/net6.0/ToDo.Infrastructure.csproj.AssemblyReference.cache
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Infrastructure/obj/Debug/net6.0/ToDo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Infrastructure/obj/Debug/net6.0/ToDo.Infrastructure.AssemblyInfoInputs.cache
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Infrastructure/obj/Debug/net6.0/ToDo.Infrastructure.AssemblyInfo.cs
+/home/void_/CsharpProjects/TasksNDS/ToDo-List/src/ToDo.Infrastructure/obj/Debug/net6.0/ToDo.Infrastructure.csproj.CoreCompileInputs.cache
